@@ -1,4 +1,4 @@
-# 🚀 TypeScript Assignments
+# TypeScript Assignments
 
 > A comprehensive collection of **40+ TypeScript programming exercises** covering everything from TypeScript fundamentals to advanced programming concepts.
 
